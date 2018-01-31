@@ -1,0 +1,2 @@
+# xiqua
+chinese
